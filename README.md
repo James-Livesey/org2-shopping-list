@@ -1,2 +1,2 @@
-# org2-shopping-list
+# `SLIST`
 Shopping list application for the Psion Organiser II.
